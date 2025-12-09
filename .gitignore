@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Angular build output
+dist/
+.angular/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment files
+src/environments/*.local.ts
